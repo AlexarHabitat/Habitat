@@ -25,3 +25,39 @@ Content Structure: Includes manifestos and philosophical essays, preparation and
 Positioning: Each habitat remains small in scale, emphasizing internal self-sufficiency; external economy is supplementary only. Habitats do not unite as political entities but engage in cultural and academic exchanges, forming a loose civilizational network.
 
 The Habitat Archive is not merely a record of ideas—it is an open experimental interface for future autonomous societies and civilizational renewal.
+
+
+---
+
+## 📂 目录结构 / Directory Structure
+
+### 1. 📜 manifesto/ — 栖地的思想根基
+- [vision.md](manifesto/vision.md) — 愿景、文明定位、哲学基础
+- [principles.md](manifesto/principles.md) — 核心原则、基本法、价值体系
+- [essays/](manifesto/essays/) — 文学性、哲学性文章
+
+### 2. 📋 plans/ — 栖地的建设路线图
+- [preparation.md](plans/preparation.md) — 准备阶段：愿景、团队、资源、风险
+- [experiment.md](plans/experiment.md) — 实验阶段：制度沙盒、心理测试、技术试点
+- [construction.md](plans/construction.md) — 建设阶段：法律架构、行政体系、经济循环
+- [operation.md](plans/operation.md) — 运营阶段：日常治理、制度迭代、居民心理
+
+### 3. 🤝 protocols/ — 栖地的制度与协作协议
+- [task-collaboration.md](protocols/task-collaboration.md) — 任务协作协议（栖地的操作系统）
+- [governance.md](protocols/governance.md) — 去中心化治理机制
+- [economy.md](protocols/economy.md) — 去资本化经济循环
+- [ai-autonomy.md](protocols/ai-autonomy.md) — AI自治平台原型
+
+### 4. 🔍 case-studies/ — 外部参考与类比
+- [sci-fi.md](case-studies/sci-fi.md) — 科幻启发（如《红火星》）
+- [historical.md](case-studies/historical.md) — 历史实验（公社、乌托邦）
+- [contemporary.md](case-studies/contemporary.md) — 当代实验（生态村、DAO）
+
+### 5. ✍️ blog/ — 对外叙事与思想传播
+- [2026-01-first-post.md](blog/2026-01-first-post.md) — 开篇文章
+- [2026-02-ai-trust.md](blog/2026-02-ai-trust.md) — AI自治平台的可信性
+
+### 6. 📚 resources/ — 学术与文化资源库
+- [bibliography.md](resources/bibliography.md) — 参考文献
+- [links.md](resources/links.md) — 外部文化与学术机构
+- [glossary.md](resources/glossary.md) — 术语表（去资本化、时间自主等）
